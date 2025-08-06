@@ -1,0 +1,194 @@
+title: clippy
+emojis:
+  - name: alarm
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/alarm.gif
+  - name: amazing
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/amazing.gif
+  - name: aware
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/aware.gif
+  - name: baby_yoda
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/baby_yoda.gif
+  - name: backwards_parrot
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/backwards_parrot.gif
+  - name: banned
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/banned.jfif
+  - name: beer
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/beer.gif
+  - name: beg
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/beg.gif
+  - name: beluga
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/beluga.jpeg
+  - name: big_eyes_pepe
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/big_eyes_pepe.gif
+  - name: bloodtrail
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/bloodtrail.png
+  - name: bongocat
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/bongocat.gif
+  - name: bongocat_code
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/bongocat_code.gif
+  - name: burn_it
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/burn_it.gif
+  - name: cat_bender
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cat_bender.jpeg
+  - name: cat_blush
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cat_blush.png
+  - name: cat_chatting
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cat_chatting.gif
+  - name: cat_chill
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cat_chill.gif
+  - name: cat_clap
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cat_clap.gif
+  - name: cat_dance
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cat_dance.gif
+  - name: cat_dance2
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cat_dance2.gif
+  - name: cat_explode
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cat_explode.gif
+  - name: cat_love
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cat_love.gif
+  - name: cat_myaa
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cat_myaa.gif
+  - name: cat_no
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cat_no.gif
+  - name: cat_salute
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cat_salute.png
+  - name: cat_tail
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cat_tail.gif
+  - name: cat_typing
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cat_typing.gif
+  - name: cat_yes
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cat_yes.gif
+  - name: catjam
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/catjam.gif
+  - name: cattime
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cattime.jfif
+  - name: chatting
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/chatting.gif
+  - name: chivo
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/chivo.png
+  - name: comp_rage
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/comp_rage.gif
+  - name: cozypepebubzface
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cozypepebubzface.png
+  - name: cryingcat
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/cryingcat.png
+  - name: dead
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/dead.gif
+  - name: diesofcringe
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/diesofcringe.gif
+  - name: dog_eating
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/dog_eating.gif
+  - name: doge_dance
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/doge_dance.gif
+  - name: dogeheart
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/dogeheart.png
+  - name: donowall
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/donowall.gif
+  - name: drake_yes
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/drake_yes.png
+  - name: drakeno
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/drakeno.png
+  - name: duckduck
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/duckduck.gif
+  - name: durka
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/durka.png
+  - name: dushno
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/dushno.png
+  - name: exuse_what
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/exuse_what.gif
+  - name: facepalm
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/facepalm.png
+  - name: frog-kisses
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/frog-kisses.gif
+  - name: froge_bonk
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/froge_bonk.gif
+  - name: gandalf
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/gandalf.gif
+  - name: goosepls
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/goosepls.gif
+  - name: hehecat
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/hehecat.png
+  - name: hide
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/hide.gif
+  - name: jammies
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/jammies.gif
+  - name: keanu-thanks
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/keanu-thanks.gif
+  - name: kekw
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/kekw.jpeg
+  - name: kittywall
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/kittywall.png
+  - name: leo-toast
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/leo-toast.gif
+  - name: library
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/library.gif
+  - name: monkey_look
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/monkey_look.gif
+  - name: monkeyshock
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/monkeyshock.gif
+  - name: noted
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/noted.gif
+  - name: omegalul
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/omegalul.png
+  - name: opachki
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/opachki.gif
+  - name: p2p
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/p2p.png
+  - name: partyparrot
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/partyparrot.gif
+  - name: peeporun
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/peeporun.gif
+  - name: penalty
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/penalty.gif
+  - name: pepe_bye_hey
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/pepe_bye_hey.gif
+  - name: pepe_rain
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/pepe_rain.gif
+  - name: pepehands
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/pepehands.png
+  - name: pepehmmm
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/pepehmmm.png
+  - name: pepewideawake
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/pepewideawake.png
+  - name: please_no
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/please_no.gif
+  - name: plus_vibe
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/plus_vibe.png
+  - name: pogslide
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/pogslide.gif
+  - name: popcat
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/popcat.gif
+  - name: rapid_cat
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/rapid_cat.gif
+  - name: rickroll
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/rickroll.gif
+  - name: s21_kek
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/s21_kek.gif
+  - name: s21_love
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/s21_love.gif
+  - name: sad_cat
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/sad_cat.png
+  - name: shrek_puns
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/shrek_puns.gif
+  - name: slowpoke_what
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/slowpoke_what.gif
+  - name: sticker
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/sticker.webp
+  - name: sussy
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/sussy.gif
+  - name: think_about_it
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/think_about_it.png
+  - name: this_is_fine
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/this_is_fine.gif
+  - name: vibe
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/vibe.gif
+  - name: vibecheck
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/vibecheck.jpg
+  - name: vibeschool
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/vibeschool.jfif
+  - name: wait
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/wait.gif
+  - name: what
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/what.gif
+  - name: where
+    src: https://raw.githubusercontent.com/clintshepard/emoji-sch21/main/where.gif
